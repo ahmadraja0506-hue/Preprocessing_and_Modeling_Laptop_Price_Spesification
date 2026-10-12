@@ -1,6 +1,6 @@
 # Preprocessing_and_Modeling_Laptop_Price_Spesification
 Proyek Machine Learning untuk memprediksi harga laptop menggunakan prapemrosesan data, analisis data eksploratif (EDA), dan pemodelan regresi dengan Python.
-
+#
 # Deskripsi Proyek
 
 Proyek ini merupakan implementasi Machine Learning menggunakan Python untuk melakukan pengolahan data dan pemodelan prediksi harga laptop berdasarkan spesifikasi yang tersedia pada dataset laptop_price.csv.
