@@ -31,7 +31,7 @@ Preprocessing_and_Modeling_Laptop_Price_Spesification/
 └── requirements.txt        # Daftar library Python yang diperlukan (opsional)
 ```
 
-### 📑 Hasil Setelah Notebook Dijalankan
+Hasil Setelah Notebook Dijalankan
 
 ```text
 Hasil Eksekusi Notebook
@@ -45,7 +45,7 @@ Hasil Eksekusi Notebook
 └── Model Saving           # Penyimpanan model untuk digunakan kembali
 ```
 
-### 📌 Penjelasan Hasil
+Penjelasan Hasil
 
 - **Data Preparation:** Dataset diproses agar siap digunakan dalam pemodelan Machine Learning.
 - **Exploratory Data Analysis (EDA):** Menghasilkan ringkasan statistik dan visualisasi untuk memahami karakteristik dataset.
@@ -59,8 +59,8 @@ Setiap cell kode dalam notebook dilengkapi dengan penjelasan agar proses preproc
 
 # Dataset
 
+https://www.kaggle.com/datasets/savithrikamani/laptop-prices
 Dataset laptop_price.csv digunakan sebagai sumber data untuk menganalisis spesifikasi dan harga laptop.
-
 Informasi yang terdapat dalam dataset mencakup karakteristik laptop, seperti merek, tipe laptop, ukuran layar, resolusi layar, prosesor, RAM, penyimpanan, kartu grafis, sistem operasi, berat, dan harga.
 
 # Teknologi dan Library
