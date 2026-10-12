@@ -21,11 +21,40 @@ Menyimpan model agar dapat digunakan kembali.
 Preprocessing_and_Modeling_Laptop_Price_Spesification/
 
 ```text
-.
-├── Laporan3.ipynb
-├── README.md
-└── laptop_price.csv
+Preprocessing_and_Modeling_Laptop_Price_Spesification/
+├── Laporan3.ipynb          # Notebook utama: preprocessing, EDA, modeling, dan evaluasi
+├── README.md               # Dokumentasi proyek dan panduan penggunaan
+├── laptop_price.csv        # Dataset awal berisi spesifikasi dan harga laptop
+├── laptop_price_model.pkl  # Model Machine Learning hasil pelatihan (jika disimpan)
+├── scaler.pkl              # Scaler untuk preprocessing data (jika digunakan dan disimpan)
+├── fitur_kolom.pkl         # Daftar urutan fitur model (jika dibuat dan disimpan)
+└── requirements.txt        # Daftar library Python yang diperlukan (opsional)
 ```
+
+### 📑 Hasil Setelah Notebook Dijalankan
+
+```text
+Hasil Eksekusi Notebook
+├── Data Preparation       # Dataset dimuat, dibersihkan, dan dipersiapkan
+├── Exploratory Data Analysis (EDA)
+│   ├── Statistik Dataset  # Ringkasan karakteristik data
+│   └── Visualisasi Data   # Grafik distribusi dan hubungan antarvariabel
+├── Data Splitting         # Pembagian data training dan testing
+├── Model Training         # Pelatihan algoritma regresi
+├── Model Evaluation       # Evaluasi menggunakan MAE, MSE, dan R²
+└── Model Saving           # Penyimpanan model untuk digunakan kembali
+```
+
+### 📌 Penjelasan Hasil
+
+- **Data Preparation:** Dataset diproses agar siap digunakan dalam pemodelan Machine Learning.
+- **Exploratory Data Analysis (EDA):** Menghasilkan ringkasan statistik dan visualisasi untuk memahami karakteristik dataset.
+- **Data Splitting:** Data dibagi menjadi data pelatihan dan data pengujian.
+- **Model Training:** Algoritma regresi dilatih menggunakan data pelatihan untuk mempelajari pola harga laptop.
+- **Model Evaluation:** Performa model dinilai menggunakan MAE, MSE, dan R².
+- **Model Saving:** Model yang telah dilatih disimpan apabila tahap penyimpanan berhasil dijalankan.
+
+Setiap cell kode dalam notebook dilengkapi dengan penjelasan agar proses preprocessing, analisis data, pemodelan, dan evaluasi lebih mudah dipahami.
 
 
 # Dataset
