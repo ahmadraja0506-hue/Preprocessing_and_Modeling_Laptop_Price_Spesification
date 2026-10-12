@@ -20,11 +20,13 @@ Menyimpan model agar dapat digunakan kembali.
 
 Preprocessing_and_Modeling_Laptop_Price_Spesification/
 
+```text
+.
 ├── Laporan3.ipynb
+├── README.md
+└── laptop_price.csv
+```
 
-├── laptop_price.csv
-
-└── README.md
 
 # Dataset
 
