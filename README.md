@@ -1,5 +1,6 @@
 # Preprocessing_and_Modeling_Laptop_Price_Spesification
 Proyek Machine Learning untuk memprediksi harga laptop menggunakan prapemrosesan data, analisis data eksploratif (EDA), dan pemodelan regresi dengan Python.
+
 #
 # Deskripsi Proyek
 
@@ -7,6 +8,7 @@ Proyek ini merupakan implementasi Machine Learning menggunakan Python untuk mela
 
 Proyek ini berfokus pada tahapan data preprocessing, Exploratory Data Analysis (EDA), pembagian dataset, pemodelan regresi, evaluasi model, dan penyimpanan model. Seluruh proses pengolahan dan analisis dilakukan menggunakan Jupyter Notebook.
 
+#
 # Tujuan
 Memahami proses pengumpulan dan pemuatan dataset.
 Melakukan pembersihan serta transformasi data.
@@ -16,6 +18,7 @@ Membangun model regresi untuk memprediksi harga laptop.
 Mengevaluasi performa model menggunakan metrik evaluasi.
 Menyimpan model agar dapat digunakan kembali.
 
+#
 # Struktur Repository
 
 Preprocessing_and_Modeling_Laptop_Price_Spesification/
@@ -56,7 +59,7 @@ Penjelasan Hasil
 
 Setiap cell kode dalam notebook dilengkapi dengan penjelasan agar proses preprocessing, analisis data, pemodelan, dan evaluasi lebih mudah dipahami.
 
-
+#
 # Dataset
 
 https://www.kaggle.com/datasets/savithrikamani/laptop-prices
@@ -65,6 +68,7 @@ Dataset laptop_price.csv digunakan sebagai sumber data untuk menganalisis spesif
 
 Informasi yang terdapat dalam dataset mencakup karakteristik laptop, seperti merek, tipe laptop, ukuran layar, resolusi layar, prosesor, RAM, penyimpanan, kartu grafis, sistem operasi, berat, dan harga.
 
+#
 # Teknologi dan Library
 
 Proyek ini menggunakan beberapa teknologi dan library Python berikut:
@@ -85,6 +89,7 @@ Scikit-learn — preprocessing, pemodelan Machine Learning, dan evaluasi model.
 
 Joblib — penyimpanan dan pemuatan model.
 
+#
 # Tahapan Pengerjaan
 
 Data Collecting — menyiapkan dataset yang akan digunakan.
@@ -103,6 +108,7 @@ Model Evaluation — mengevaluasi hasil prediksi menggunakan MAE, MSE, dan R².
 
 Model Saving — menyimpan model yang telah dilatih agar dapat digunakan kembali.
 
+#
 # Cara Menjalankan Proyek
 
 1. Clone Repository
@@ -124,6 +130,7 @@ jupyter notebook
 Buka file Laporan3.ipynb, kemudian jalankan setiap sel kode secara berurutan.
 Pastikan file laptop_price.csv berada pada lokasi yang sesuai dengan path yang digunakan di dalam notebook.
 
+#
 # Evaluasi Model
 
 Performa model dievaluasi menggunakan metrik berikut:
@@ -136,10 +143,12 @@ R² (Coefficient of Determination) — mengukur seberapa baik model menjelaskan 
 
 Hasil evaluasi digunakan untuk membandingkan performa model yang diterapkan pada dataset.
 
+#
 # Hasil yang Diharapkan
 
 Proyek ini diharapkan dapat menghasilkan pemahaman mengenai proses preprocessing data, analisis spesifikasi laptop, penerapan algoritma regresi, dan evaluasi model untuk prediksi harga laptop.
 
+#
 # Author
 
 Ahmad Raja
