@@ -19,6 +19,7 @@ Menyimpan model agar dapat digunakan kembali.
 # Struktur Repository
 
 Preprocessing_and_Modeling_Laptop_Price_Spesification/
+
 ├── Laporan3.ipynb
 ├── laptop_price.csv
 └── README.md
